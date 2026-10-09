@@ -1,6 +1,3 @@
-
-# QUESTION 1: STUDENT RESULT SYSTEM
-
 students = [
     {"name": "Ram", "Math": 80, "English": 75, "Science": 85},
     {"name": "Sita", "Math": 90, "English": 88, "Science": 92},
