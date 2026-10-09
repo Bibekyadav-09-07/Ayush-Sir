@@ -1,4 +1,3 @@
-
 products = {
     "apple": {"price": 50, "quantity": 10},
     "milk": {"price": 80, "quantity": 5},
