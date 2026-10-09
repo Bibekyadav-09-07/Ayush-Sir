@@ -1,4 +1,3 @@
-
 books = [
     {"title": "Python Basics", "author": "Ram", "available": True},
     {"title": "Java Programming", "author": "Sita", "available": True},
